@@ -8,3 +8,4 @@ It is worth sharing because it was my first completed functional project that in
 Some of the code is in "Spanish". further in time I would realized that I could've just write everything in english :P
 
 Go to the code to see... The code :)
+Go to Captures to see... The captures :D
